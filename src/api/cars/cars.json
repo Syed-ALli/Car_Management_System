@@ -1,0 +1,41 @@
+[{
+    "carId": 1,
+    "registration_no": "LES-785",
+    "type": "Audi",
+    "color": "Black",
+    "hourly_rate": 35.00,
+    "serviceability": true,
+    "imageUrl": "./assets/images/aeroplanes/Audi2.jpg"
+}, {
+    "carId": 2,
+    "registration_no": "LES-999",
+    "type": "Honda",
+    "color": "Black",
+    "hourly_rate": 35.00,
+    "serviceability": false,
+    "imageUrl": "./assets/images/aeroplanes/Audi2.jpg"
+}, {
+    "carId": 3,
+    "registration_no": "LES-727",
+    "type": "Audi",
+    "color": "White",
+    "hourly_rate": 35.00,
+    "serviceability": false,
+    "imageUrl": "./assets/images/aeroplanes/Audi1.jpg"
+}, {
+    "carId": 4,
+    "registration_no": "LES-9211",
+    "type": "Mercedis",
+    "color": "Mettalic",
+    "hourly_rate": 35.00,
+    "serviceability": true,
+    "imageUrl": "./assets/images/aeroplanes/Audi1.jpg"
+}, {
+    "carId": 5,
+    "registration_no": "LES-2826",
+    "type": "Honda",
+    "color": "Red",
+    "hourly_rate": 35.00,
+    "serviceability": false,
+    "imageUrl": "./assets/images/aeroplanes/Honda1.jpg"
+}]

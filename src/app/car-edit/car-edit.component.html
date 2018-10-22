@@ -1,0 +1,32 @@
+
+<div class="panel panel-primary" >
+    <div class="panel-heading">
+        {{pageTitle}}
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-4">
+                   <label>Car Reg:</label><input [(ngModel)]="mycarI.registration_no"><br>
+                   <label>Car Type: </label><input [(ngModel)]="mycarI.type"><br>
+                   <label>Car Color: </label><input [(ngModel)]="mycarI.color"><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                
+            </div>
+        </div>
+
+        <button (click)='updateData()'>Update</button>
+        
+        
+    </div>
+
+    <button (click)='goBack()'>Back</button>
+
+
+</div>
+
+
+

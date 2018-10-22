@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    margin: 0 10px;
+}
+
+.panel
+.panel-primary {
+    margin: 10px;
+}
+
+thead {
+    color: #337AB7;
+}
+
+.panel-heading{
+    background-color: orange;
+    border-color: orange;
+}
+
+.btn-primary{
+    background-color: black;
+}
+
+
